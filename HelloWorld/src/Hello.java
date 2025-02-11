@@ -13,6 +13,7 @@ public class Hello {
         int topScore = 100;
         if (topScore == 100){
             System.out.println("You have got the highest score!");
+            test
         }
 
     }
