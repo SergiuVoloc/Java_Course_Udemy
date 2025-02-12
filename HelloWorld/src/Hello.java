@@ -54,7 +54,7 @@ public class Hello {
         System.out.println("The total is " + isNoRemainder);
 
         if (!isNoRemainder) {
-            System.out.println("Got some remainder");
+            System.out.println("Got some remainder!");
         }
 
 
