@@ -1,4 +1,4 @@
-public class SecondChallenge {
+public class KilometersToMiles {
     private static int position;
 
     public static void main(String[] args) {
