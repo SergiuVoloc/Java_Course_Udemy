@@ -1,4 +1,4 @@
-public class CodingPractice2 {
+public class CP2_SpeedConvertor {
     public static void main(String[] args) {
 
         toMilesPerHour(1.5);

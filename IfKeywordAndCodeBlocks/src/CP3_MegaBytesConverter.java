@@ -1,4 +1,4 @@
-public class MegaBytesConverter {
+public class CP3_MegaBytesConverter {
     public static void main(String[] args) {
 
         printMegaBytesAndKiloBytes(2500);

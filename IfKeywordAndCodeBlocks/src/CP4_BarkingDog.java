@@ -1,4 +1,4 @@
-public class CP4BarkingDog {
+public class CP4_BarkingDog {
     public static void main(String[] args) {
 
         shouldWakeUp (true, 1);
