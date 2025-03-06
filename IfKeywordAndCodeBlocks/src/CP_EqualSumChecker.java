@@ -17,4 +17,10 @@ public class CP_EqualSumChecker {
             return false;
         }
     }
+
+//    Another more clean way to solve it:
+//    public static boolean hasEqualSum(int a, int b, int c) {
+//        return (a + b) == c;
+//    }
+
 }
