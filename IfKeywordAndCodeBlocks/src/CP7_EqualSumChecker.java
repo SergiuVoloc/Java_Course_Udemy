@@ -1,4 +1,4 @@
-public class CP_EqualSumChecker {
+public class CP7_EqualSumChecker {
     public static void main(String[] args) {
 
         hasEqualSum(1,1,1);
