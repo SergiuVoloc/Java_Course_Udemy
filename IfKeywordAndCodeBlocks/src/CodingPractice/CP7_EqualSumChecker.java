@@ -1,3 +1,5 @@
+package CodingPractice;
+
 public class CP7_EqualSumChecker {
     public static void main(String[] args) {
 

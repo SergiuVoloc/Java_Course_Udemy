@@ -1,3 +1,5 @@
+package CodingPractice;
+
 public class CP4_BarkingDog {
     public static void main(String[] args) {
 

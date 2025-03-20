@@ -1,3 +1,5 @@
+package CodingPractice;
+
 public class CP8_TeenNumberChecker {
     public static void main(String[] args) {
 

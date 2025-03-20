@@ -1,3 +1,5 @@
+package CodingPractice;
+
 public class CP3_MegaBytesConverter {
     public static void main(String[] args) {
 

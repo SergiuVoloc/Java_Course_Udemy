@@ -1,3 +1,5 @@
+package CodingPractice;
+
 public class CP2_SpeedConvertor {
     public static void main(String[] args) {
 
