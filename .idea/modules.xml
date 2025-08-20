@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Course_Udemy.iml" filepath="$PROJECT_DIR$/.idea/Java_Course_Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpresions/KeywordsAndExpresions.iml" filepath="$PROJECT_DIR$/KeywordsAndExpresions/KeywordsAndExpresions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" filepath="$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum3and5Challenge/Sum3and5Challenge.iml" filepath="$PROJECT_DIR$/Sum3and5Challenge/Sum3and5Challenge.iml" />
+    </modules>
+  </component>
+</project>
