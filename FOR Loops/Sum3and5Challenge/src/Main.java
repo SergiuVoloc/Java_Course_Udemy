@@ -15,9 +15,7 @@ public class Main {
             }else if (matchNumbersFound == 5){
             break;
             }
-
         }
-
         System.out.println("The sum of numbers above is = " + totalSum);
 
     }
